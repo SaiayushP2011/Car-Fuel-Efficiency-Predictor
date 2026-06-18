@@ -1,5 +1,4 @@
 # Car-Fuel-Efficiency-Predictor
-# Car Fuel Efficiency Predictor
 
 A PyTorch-based ML project that predicts a car’s fuel efficiency (MPG) using factors such as horsepower, weight, cylinders, and engine size.
 
